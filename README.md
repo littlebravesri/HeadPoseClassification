@@ -1,5 +1,3 @@
 # Head Pose Image Classification
 
-* Assignment_1_DL.ipynb is the main source code file. All code for developing the model is in this file. Simply Run all cells to run the code.
-* s3774307_predictions is the predicted class values for tilt and pan.
-* Assignment_1_DL.py is the downloaded python script version of Assignment_1_DL.ipynb to be used for checking plagerism. 
+Head pose estimation has many applications such as driver monitoring, attention recognition and multi-view facial analysis. This assignment is related to the head pose estimation where the goal is to develop a Deep Convolutional Neural Network to identify the head pose given an image of a person by classifying the images based on the tilt and pan of the head. Given a dataset with images of head in different positions, the objective of building a DCNN is to classify the images into the right tilt and pan positions of the head in that image. Achieving high accuracy (>90%) would be the target by developing a CNN.
